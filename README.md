@@ -117,7 +117,7 @@ Le fichier .msapp stocké dans ce dépôt est un package binaire propriétaire. 
 ### Prérequis
 - Un compte Microsoft Power Apps (Professionnel, Scolaire ou un Plan Développeur gratuit).
 
-- Avoir téléchargé le fichier GE_Healthcare_app.msapp depuis ce dépôt GitHub sur votre machine.
+- Avoir téléchargé le fichier ProvisionMe.msapp depuis ce dépôt GitHub sur votre machine.
 
 ### Étapes pas à pas pour ouvrir l'application
 - Connectez-vous sur le portail d'administration de la Power Platform : make.powerapps.com.
